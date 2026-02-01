@@ -4,6 +4,7 @@ Una recreación en Scratch de **PiX Pang**, un juego pang desarrollado por **PiX
 Desarrollado para que sea lo más parecido al PiX Pang original.
 
 ![Screenshot](screenshots/1.png)
+![Screenshot](screenshots/2.png)
 
 ---
 
