@@ -1,5 +1,6 @@
 # PiX Pang, recreado en Scratch
-Una recreación en Scratch de PiX Pang, un juego pang desarrollado por PiX Juegos.
+Una recreación en Scratch de **PiX Pang**, un juego pang desarrollado por **PiX Juegos**.
+
 Desarrollado para que sea lo más parecido al PiX Pang original.
 
 ![Screenshot](screenshots/1.png)
