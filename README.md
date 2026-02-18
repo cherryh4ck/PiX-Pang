@@ -1,5 +1,5 @@
 # PiX Pang, recreado en Scratch
-## Si querés jugar esta recreación, andá a la sección de ENLACES, no la de releases!
+### Si querés jugar esta recreación, andá a la sección de ENLACES, no la de releases!
 Una recreación hecha por mi en Scratch de **PiX Pang**, un juego pang desarrollado por **PiX Juegos** en el año 2004.
 
 Desarrollado para que sea lo más parecido al PiX Pang original.
